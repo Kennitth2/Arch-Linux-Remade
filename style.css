@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(7, 113, 184);
+    font-weight: bold;
+    text-align:center;
+}
+
+body {
+    background-image: url(astize_cc0_split1.png);
+    background-size: cover;
+}
+
+.toolbar {
+    position:absolute;
+  width: 100%;
+  background-color:darkblue;
+  left:0%;
+  top:0%;
+}
+
+.whytoinstallarch {
+    position: absolute;
+  left: 50%;
+  top: 80%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  max-width: 900px;
+  /* our page width */
+  min-width: 500px;
+  background-color: transparent;
+}
